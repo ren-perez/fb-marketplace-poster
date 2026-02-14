@@ -1,0 +1,512 @@
+{
+    "ConditionalBlockHtml": "",
+    "Paging": {
+        "PaginationDataModel": {
+            "PageEnd": 24,
+            "PageNumber": 1,
+            "PageSize": 24,
+            "PageStart": 0,
+            "TotalPages": 3,
+            "TotalCount": 59
+        },
+        "NumberOfVehiclesToShowModel": {
+            "12": "/searchused.aspx?host=www.premiernissanoffremont.com&baseFilter=dHlwZT0ndSc&displayCardsShown=NaN&pn=12",
+            "24": "/searchused.aspx?host=www.premiernissanoffremont.com&baseFilter=dHlwZT0ndSc&displayCardsShown=NaN&pn=24",
+            "48": "/searchused.aspx?host=www.premiernissanoffremont.com&baseFilter=dHlwZT0ndSc&displayCardsShown=NaN&pn=48",
+            "96": "/searchused.aspx?host=www.premiernissanoffremont.com&baseFilter=dHlwZT0ndSc&displayCardsShown=NaN&pn=96"
+        }
+    },
+    "SrpScrollType": 0,
+    "DisplayCards": [
+        {
+            "IsAdCard": false,
+            "AdCard": null,
+            "VehicleCard": {
+                "VehicleImageModel": {
+                    "HasInventoryOrStockPhotos": true,
+                    "ShouldDisplayPriceDropIcon": false,
+                    "ShowSpecialIcon": false,
+                    "VehicleDetailUrl": "https://www.premiernissanoffremont.com/used-+-2017-Ford-Escape-SE-1FMCU0G93HUA28722",
+                    "VehiclePhotoSrc": "/inventoryphotos/16243/1fmcu0g93hua28722/ip/thumbs/1.jpg",
+                    "DealerName": "Nissan of Fremont",
+                    "CornerType": "",
+                    "SrpImageBreakpointWidthPairs": [
+                        {
+                            "Breakpoint": 539,
+                            "Width": 540
+                        },
+                        {
+                            "Breakpoint": 639,
+                            "Width": 595
+                        },
+                        {
+                            "Breakpoint": 991,
+                            "Width": 467
+                        },
+                        {
+                            "Breakpoint": 1299,
+                            "Width": 864
+                        },
+                        {
+                            "Breakpoint": 1532,
+                            "Width": 1099
+                        },
+                        {
+                            "Breakpoint": 1919,
+                            "Width": 806
+                        },
+                        {
+                            "Breakpoint": 1920,
+                            "Width": 1031
+                        }
+                    ],
+                    "VehicleNameHtmlEncoded": null,
+                    "Vin": null,
+                    "VehicleImageCarouselModel": {
+                        "Vin": "1FMCU0G93HUA28722",
+                        "VehicleNameHtmlEncoded": "2017 Ford Escape SE",
+                        "DetailedImageCount": 5,
+                        "ImageCount": 5,
+                        "TotalImageCount": 24,
+                        "RedirectLocation": "https://www.premiernissanoffremont.com/used-+-2017-Ford-Escape-SE-1FMCU0G93HUA28722",
+                        "VehicleUxPostion": 0,
+                        "PhotoList": [
+                            "/inventoryphotos/16243/1fmcu0g93hua28722/ip/1.jpg",
+                            "/inventoryphotos/16243/1fmcu0g93hua28722/ip/2.jpg",
+                            "/inventoryphotos/16243/1fmcu0g93hua28722/ip/3.jpg",
+                            "/inventoryphotos/16243/1fmcu0g93hua28722/ip/4.jpg",
+                            "/inventoryphotos/16243/1fmcu0g93hua28722/ip/5.jpg",
+                            "/inventoryphotos/16243/1fmcu0g93hua28722/ip/5.jpg"
+                        ],
+                        "PhotoListDetailed": [
+                            {
+                                "TargetUrl": "/inventoryphotos/16243/1fmcu0g93hua28722/ip/1.jpg",
+                                "Width": 1600,
+                                "Height": 1066,
+                                "AspectRatio": 1.500938,
+                                "Is360": false,
+                                "DownloadDate": "2026-02-04T05:10:11Z"
+                            },
+                            {
+                                "TargetUrl": "/inventoryphotos/16243/1fmcu0g93hua28722/ip/2.jpg",
+                                "Width": 1600,
+                                "Height": 1066,
+                                "AspectRatio": 1.500938,
+                                "Is360": false,
+                                "DownloadDate": "2026-02-04T05:10:11Z"
+                            },
+                            {
+                                "TargetUrl": "/inventoryphotos/16243/1fmcu0g93hua28722/ip/3.jpg",
+                                "Width": 1600,
+                                "Height": 1066,
+                                "AspectRatio": 1.500938,
+                                "Is360": false,
+                                "DownloadDate": "2026-02-04T05:10:11Z"
+                            },
+                            {
+                                "TargetUrl": "/inventoryphotos/16243/1fmcu0g93hua28722/ip/4.jpg",
+                                "Width": 1600,
+                                "Height": 1066,
+                                "AspectRatio": 1.500938,
+                                "Is360": false,
+                                "DownloadDate": "2026-02-04T05:10:11Z"
+                            },
+                            {
+                                "TargetUrl": "/inventoryphotos/16243/1fmcu0g93hua28722/ip/5.jpg",
+                                "Width": 1600,
+                                "Height": 1066,
+                                "AspectRatio": 1.500938,
+                                "Is360": false,
+                                "DownloadDate": "2026-02-04T05:10:11Z"
+                            },
+                            {
+                                "TargetUrl": "/inventoryphotos/16243/1fmcu0g93hua28722/ip/5.jpg",
+                                "Width": 1600,
+                                "Height": 1066,
+                                "AspectRatio": 1.500938,
+                                "Is360": false,
+                                "DownloadDate": "2026-02-04T05:10:11Z"
+                            }
+                        ],
+                        "CornerType": "",
+                        "IsSignalsForYou": false,
+                        "BackgroundColorQueryParam": "bg-color=FFFFFF",
+                        "SrpImageBreakpointWidthPairs": [
+                            {
+                                "Breakpoint": 539,
+                                "Width": 540
+                            },
+                            {
+                                "Breakpoint": 639,
+                                "Width": 595
+                            },
+                            {
+                                "Breakpoint": 991,
+                                "Width": 467
+                            },
+                            {
+                                "Breakpoint": 1299,
+                                "Width": 864
+                            },
+                            {
+                                "Breakpoint": 1532,
+                                "Width": 1099
+                            },
+                            {
+                                "Breakpoint": 1919,
+                                "Width": 806
+                            },
+                            {
+                                "Breakpoint": 1920,
+                                "Width": 1031
+                            }
+                        ],
+                        "PhotosUnavailable": false,
+                        "PhotosUnavailableLabel": "Vehicle Photos Unavailable Please Check Back Soon",
+                        "PhotoLabel": "2017 Ford Escape SE",
+                        "BlurCtaBackground": false
+                    }
+                },
+                "DealerCommentsIconPath": "resources/components/utilityImages/dealer-comment-icon.svg",
+                "TaggingPrice": "0",
+                "VehicleUxPosition": 0,
+                "CornerType": "",
+                "LotSeparator": "",
+                "VehicleDetailUrl": "https://www.premiernissanoffremont.com/used-+-2017-Ford-Escape-SE-1FMCU0G93HUA28722",
+                "PricingPanelContent": "",
+                "Features": [
+                    "Keyless Entry",
+                    "Emergency Brake Assist",
+                    "Sunroof/Moonroof",
+                    "Rear View Camera",
+                    "Entertainment System",
+                    "Alloy Wheels",
+                    "Cruise Control"
+                ],
+                "VehicleFeaturesModel": {
+                    "ShowHighlightsOnly": false,
+                    "ShowIconButtonsOnly": false,
+                    "ShowHighlightsAndButtons": true,
+                    "IsHyundai": false,
+                    "ShowHighlights": true,
+                    "ShowFeatureDetails": true,
+                    "ShowComments": true,
+                    "VehicleCommentsEncoded": "Clean CARFAX.&lt;br&gt;&lt;br&gt;&lt;br&gt;Equipment Group 200A, 3.21 Axle Ratio, 4-Wheel Disc Brakes, 6 Speakers, ABS brakes, Air Conditioning, Alloy wheels, AM/FM radio: SiriusXM, Automatic temperature control, Brake assist, Bumpers: body-color, CD player, Compass, Delay-off headlights, Driver door bin, Driver vanity mirror, Dual front impact airbags, Dual front side impact airbags, Electronic Stability Control, Emergency communication system: 911 Assist, Exterior Parking Camera Rear, Four wheel independent suspension, Front anti-roll bar, Front Bucket Seats, Front Center Armrest, Front dual zone A/C, Front fog lights, Front License Plate Bracket, Front reading lights, Fully automatic headlights, Illuminated entry, Knee airbag, Low tire pressure warning, Occupant sensing airbag, Outside temperature display, Overhead airbag, Overhead console, Panic alarm, Panoramic Vista Roof, Passenger door bin, Passenger vanity mirror, Power door mirrors, Power driver seat, Power steering, Power windows, Radio data system, Radio: AM/FM Single CD/MP3, Rear anti-roll bar, Rear seat center armrest, Rear window defroster, Rear window wiper, Remote keyless entry, Speed control, Speed-sensing steering, Split folding rear seat, Steering wheel mounted audio controls, SYNC Communications &amp; Entertainment System, Tachometer, Telescoping steering wheel, Tilt steering wheel, Traction control, Trip computer, Unique Cloth Buckets w/60/40 Split Rear Seat, Variably intermittent wipers, and Wheels: 17 Sparkle Silver Painted Aluminum.&lt;br&gt;&lt;br&gt;Awards:&lt;br&gt;  * 2017 KBB.com 10 Best SUVs Under $25,000   * 2017 KBB.com 10 Best Used Compact SUVs Under $15,000   * 2017 KBB.com Brand Image Awards   * 2017 KBB.com 10 Most Awarded Brands&lt;br&gt;&lt;br&gt;Reviews:&lt;br&gt;  * Optional 2.0-liter turbocharged engine provides quick acceleration; high-tech features include Sync 3 infotainment, Apple CarPlay and Android Auto; responsive steering and carlike handling around turns. Source: Edmunds&lt;br&gt;2017 Ford Escape SE",
+                    "DealerCommentsIconPath": "resources/components/utilityImages/dealer-comment-icon.svg",
+                    "ShowVideoButton": false,
+                    "ShowWindowSticker": true,
+                    "VehicleVin": "1FMCU0G93HUA28722",
+                    "InvComments": "Clean CARFAX.<br><br><br>Equipment Group 200A, 3.21 Axle Ratio, 4-Wheel Disc Brakes, 6 Speakers, ABS brakes, Air Conditioning, Alloy wheels, AM/FM radio: SiriusXM, Automatic temperature control, Brake assist, Bumpers: body-color, CD player, Compass, Delay-off headlights, Driver door bin, Driver vanity mirror, Dual front impact airbags, Dual front side impact airbags, Electronic Stability Control, Emergency communication system: 911 Assist, Exterior Parking Camera Rear, Four wheel independent suspension, Front anti-roll bar, Front Bucket Seats, Front Center Armrest, Front dual zone A/C, Front fog lights, Front License Plate Bracket, Front reading lights, Fully automatic headlights, Illuminated entry, Knee airbag, Low tire pressure warning, Occupant sensing airbag, Outside temperature display, Overhead airbag, Overhead console, Panic alarm, Panoramic Vista Roof, Passenger door bin, Passenger vanity mirror, Power door mirrors, Power driver seat, Power steering, Power windows, Radio data system, Radio: AM/FM Single CD/MP3, Rear anti-roll bar, Rear seat center armrest, Rear window defroster, Rear window wiper, Remote keyless entry, Speed control, Speed-sensing steering, Split folding rear seat, Steering wheel mounted audio controls, SYNC Communications & Entertainment System, Tachometer, Telescoping steering wheel, Tilt steering wheel, Traction control, Trip computer, Unique Cloth Buckets w/60/40 Split Rear Seat, Variably intermittent wipers, and Wheels: 17 Sparkle Silver Painted Aluminum.<br><br>Awards:<br>  * 2017 KBB.com 10 Best SUVs Under $25,000   * 2017 KBB.com 10 Best Used Compact SUVs Under $15,000   * 2017 KBB.com Brand Image Awards   * 2017 KBB.com 10 Most Awarded Brands<br><br>Reviews:<br>  * Optional 2.0-liter turbocharged engine provides quick acceleration; high-tech features include Sync 3 infotainment, Apple CarPlay and Android Auto; responsive steering and carlike handling around turns. Source: Edmunds<br>2017 Ford Escape SE",
+                    "VehicleHighlightsModel": {
+                        "Highlights": [
+                            "Keyless Entry",
+                            "Emergency Brake Assist",
+                            "Sunroof/Moonroof",
+                            "Rear View Camera",
+                            "Entertainment System",
+                            "Alloy Wheels",
+                            "Cruise Control"
+                        ],
+                        "FeatureIconPath": "https://cdn.dlron.us/static/industry-automotive/icons/features/",
+                        "DisclaimerText": "Feature availability subject to final vehicle configuration. Please reference window sticker for more info.",
+                        "ShouldShow": true
+                    },
+                    "VideoButtonModel": {
+                        "FordVideoUrl": "",
+                        "HasVideo": false,
+                        "IframeVideoUrl": "'/iframevideodisplay.aspx?vin=1FMCU0G93HUA28722'",
+                        "VehicleVin": "1FMCU0G93HUA28722",
+                        "VideoBtnClass": "",
+                        "VideoIconPath": "https://cdn.dlron.us/static/industry-automotive/icons/video-icon.svg",
+                        "VideoId": "videoBtn",
+                        "VideoImgAltText": "Play 2017 Ford Escape SE Video"
+                    },
+                    "WindowStickersModel": {
+                        "ClickEvent": "DoUtility.OpenWindowSticker('/api/vhcliaa/inventory/25116/window-sticker?sv=MQBGAE0AQwBVADAARwA5ADMASABVAEEAMgA4ADcAMgAyAA%3d%3d&make=Ford&vehicleType=U&dealerCode=5242');",
+                        "DataTagging": "data-tagging-item=\"windowsticker\"",
+                        "VehicleVin": "1FMCU0G93HUA28722",
+                        "DisclaimerIconPath": "https://cdn.dlron.us/static/industry-automotive/icons/icon_info.svg",
+                        "IsHyundaiDealer": false,
+                        "IsSubaruDealer": false
+                    }
+                },
+                "OemVehicleFeaturesModel": {
+                    "ShowOemHighlights": false,
+                    "OemFeatureHighlights": null
+                },
+                "VehicleCompareButtonModel": {
+                    "CompareType": "new",
+                    "ButtonLocation": "GridView",
+                    "Vin": "1FMCU0G93HUA28722",
+                    "VehicleLabel": "Ford/Escape/1FMCU0G93HUA28722"
+                },
+                "TdgHeartModel": {
+                    "DivId": "dg-inline-save-inv-",
+                    "AppendId": "1FMCU0G93HUA28722"
+                },
+                "ShowTdgHeart": false,
+                "ShowVehicleSavingHeart": false,
+                "VehicleHighlightsModel": {
+                    "Highlights": [
+                        "Keyless Entry",
+                        "Emergency Brake Assist",
+                        "Sunroof/Moonroof",
+                        "Rear View Camera",
+                        "Entertainment System",
+                        "Alloy Wheels",
+                        "Cruise Control"
+                    ],
+                    "FeatureIconPath": "https://cdn.dlron.us/static/industry-automotive/icons/features/",
+                    "DisclaimerText": "Feature availability subject to final vehicle configuration. Please reference window sticker for more info.",
+                    "ShouldShow": true
+                },
+                "VehicleCommentsEncoded": "Clean CARFAX.&lt;br&gt;&lt;br&gt;&lt;br&gt;Equipment Group 200A, 3.21 Axle Ratio, 4-Wheel Disc Brakes, 6 Speakers, ABS brakes, Air Conditioning, Alloy wheels, AM/FM radio: SiriusXM, Automatic temperature control, Brake assist, Bumpers: body-color, CD player, Compass, Delay-off headlights, Driver door bin, Driver vanity mirror, Dual front impact airbags, Dual front side impact airbags, Electronic Stability Control, Emergency communication system: 911 Assist, Exterior Parking Camera Rear, Four wheel independent suspension, Front anti-roll bar, Front Bucket Seats, Front Center Armrest, Front dual zone A/C, Front fog lights, Front License Plate Bracket, Front reading lights, Fully automatic headlights, Illuminated entry, Knee airbag, Low tire pressure warning, Occupant sensing airbag, Outside temperature display, Overhead airbag, Overhead console, Panic alarm, Panoramic Vista Roof, Passenger door bin, Passenger vanity mirror, Power door mirrors, Power driver seat, Power steering, Power windows, Radio data system, Radio: AM/FM Single CD/MP3, Rear anti-roll bar, Rear seat center armrest, Rear window defroster, Rear window wiper, Remote keyless entry, Speed control, Speed-sensing steering, Split folding rear seat, Steering wheel mounted audio controls, SYNC Communications &amp; Entertainment System, Tachometer, Telescoping steering wheel, Tilt steering wheel, Traction control, Trip computer, Unique Cloth Buckets w/60/40 Split Rear Seat, Variably intermittent wipers, and Wheels: 17 Sparkle Silver Painted Aluminum.&lt;br&gt;&lt;br&gt;Awards:&lt;br&gt;  * 2017 KBB.com 10 Best SUVs Under $25,000   * 2017 KBB.com 10 Best Used Compact SUVs Under $15,000   * 2017 KBB.com Brand Image Awards   * 2017 KBB.com 10 Most Awarded Brands&lt;br&gt;&lt;br&gt;Reviews:&lt;br&gt;  * Optional 2.0-liter turbocharged engine provides quick acceleration; high-tech features include Sync 3 infotainment, Apple CarPlay and Android Auto; responsive steering and carlike handling around turns. Source: Edmunds&lt;br&gt;2017 Ford Escape SE",
+                "WindowStickerModel": {
+                    "ClickEvent": "DoUtility.OpenWindowSticker('/api/vhcliaa/inventory/25116/window-sticker?sv=MQBGAE0AQwBVADAARwA5ADMASABVAEEAMgA4ADcAMgAyAA%3d%3d&make=Ford&vehicleType=U&dealerCode=5242');",
+                    "DataTagging": "data-tagging-item=\"windowsticker\"",
+                    "VehicleVin": "1FMCU0G93HUA28722",
+                    "DisclaimerIconPath": "https://cdn.dlron.us/static/industry-automotive/icons/icon_info.svg",
+                    "IsHyundaiDealer": false,
+                    "IsSubaruDealer": false
+                },
+                "Length": "178.1",
+                "ShowFeatures": true,
+                "ShowHighlights": true,
+                "ShowFeatureDetails": true,
+                "ShowComments": true,
+                "ShowWindowSticker": true,
+                "ShowVideoButton": false,
+                "ShowHighlightsOnly": false,
+                "ShowIconButtonsOnly": false,
+                "ShowHighlightsAndButtons": true,
+                "ShowLength": true,
+                "VehicleCompareModel": {
+                    "CompareType": "new",
+                    "ButtonLocation": "GridView",
+                    "Vin": "1FMCU0G93HUA28722",
+                    "VehicleLabel": "Ford/Escape/1FMCU0G93HUA28722"
+                },
+                "ShowMileage": true,
+                "Mileage": "96,332 mi",
+                "ShowStatus": false,
+                "VehicleStatusModel": {
+                    "VehicleEtaHtml": null,
+                    "VehicleStatusHtml": null,
+                    "HasStatusInfo": false,
+                    "HasVehicleEtaHtml": false,
+                    "StatusText": null,
+                    "ModalAttrs": null,
+                    "CornerType": "",
+                    "DisclaimerIconPath": null,
+                    "EtaDisplay": null,
+                    "ShowEta": false
+                },
+                "ShowVehicleCondition": false,
+                "VehicleCondition": "Used",
+                "ShowSpecs": true,
+                "ShowIdentifiers": true,
+                "ShowVin": true,
+                "ShowStockNumber": true,
+                "ShowModelCode": false,
+                "ManufacturerHighlightsIconsViewModel": {
+                    "IsUsed": true,
+                    "IsDealerFordOem": false,
+                    "FeatureLogosViewModel": {
+                        "Logos": [],
+                        "CadillacInTransitEta": null
+                    },
+                    "FordSmartBonus": "",
+                    "ShowFordSmartBonus": false,
+                    "ConsumerReportsViewModel": {
+                        "ConsumerReport": null,
+                        "HasConsumerReport": false,
+                        "OemName": "ford",
+                        "VehicleYear": 2017,
+                        "VIN": "1FMCU0G93HUA28722",
+                        "Type": 0
+                    },
+                    "CpoImage": "",
+                    "CpoLink": null,
+                    "UseCpoLink": false,
+                    "CpoAltTitle": "Certified Pre-Owned",
+                    "ShowDefaultCpoLogo": false,
+                    "ShowBmwCpoLogo": false,
+                    "UseFcaGoldCpoModal": false,
+                    "ShowHyundaiCpo": false,
+                    "RebateImages": [],
+                    "CpoReport": null,
+                    "CpoReportImage": "",
+                    "HasCpoReportImage": false,
+                    "CarHistoryReport": "<a class=\"reportImg icon-img__benefit stat-image-link\" href=\"https://www.carfax.com/vehiclehistory/ar20/RKxbLXxKpflIphmYuaHRKnxMc6NZY2LINkulzgBnDUv6t3YUjpeKGdhBj_vqR46QzuKoBRJ76d2pUDl8zny8upoSb5X7El45WnM\" rel=\"noopener\" data-loc=\"carfax\" target=\"_blank\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"open\"  data-dotagging-element-type=\"item_details\" data-dotagging-element-subtype=\"hyperlink\" data-dotagging-event-action=\"click\" data-dotagging-element-order=\"0\"> <img class=\"feature-image__benefit\" src=\"https://partnerstatic.carfax.com/img/valuebadge/showme.svg\" alt=\"View CARFAX report\" style=\"width:80px;\" title=\"View CARFAX report\" loading=\"lazy\"></a>\r\n\r\n\r\n\r\n",
+                    "HasCarHistoryReport": true,
+                    "BmwCpoModalContent": "&lt;ul class=&quot;oem-bmw__cpo--modal-list&quot;&gt;&lt;li&gt;1 Year / Unlimited Miles Limited Warranty&lt;/li&gt;&lt;li&gt;Genuine BMW Parts&lt;/li&gt;&lt;li&gt;360&#176; Vehicle Inspection&lt;/li&gt;&lt;li&gt;Additional 3 years of 24/7 Roadside Assistance&lt;/li&gt;&lt;li&gt;Inspected and reconditioned by BMW Trained technicians&lt;/li&gt;&lt;li&gt;Special financing offers from BMW Financial Services&lt;/li&gt;&lt;li&gt;Extended vehicle protection available from BMW Financial Services&lt;/li&gt;&lt;li&gt;Vehicle History Report provided at no cost&lt;/li&gt;&lt;li&gt;Three months of SiriusXM Satellite Radio*&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;*On appropriately equipped vehicles.&lt;/p&gt;&lt;a href=&quot;/bmwcertified&quot;&gt;Learn More&lt;/a&gt;",
+                    "FcaGoldCpoModalContent": null,
+                    "CertifiedDisclaimer": ""
+                },
+                "ShowIcons": true,
+                "VehicleLocationDistanceLabel": "",
+                "VehicleLocationLabel": "",
+                "DaysOnLotLabel": null,
+                "ShowDaysOnLot": false,
+                "ShowLocation": false,
+                "ShowLocationDistance": false,
+                "ShowLocationInfo": false,
+                "ShowIconsAndLocation": true,
+                "IsCarBravoVehicle": false,
+                "ShowCpoTier": false,
+                "CpoTierTitle": null,
+                "CpoTierClass": null,
+                "IsBravoBudgetVehicle": false,
+                "IsCosmosTdgEnabled": false,
+                "UseTdgColorClasses": false,
+                "IsHyundai": false,
+                "VehicleMakeAndModel": " Ford Escape ",
+                "IsMiniOem": false,
+                "HasModelEBrochure": false,
+                "DigitalGarageEfcDisclaimerValues": [],
+                "DigitalGarageRtiDisclaimerDescriptions": [],
+                "EligibleBenefitsViewModel": {
+                    "BenefitType": "icon",
+                    "EligibleBenefits": [],
+                    "VehicleVin": "1FMCU0G93HUA28722"
+                },
+                "WasabiVehiclePricingPanelViewModel": {
+                    "AfterCommentCustomContentCollection": [],
+                    "BeforeCommentCustomContentCollection": [
+                        {
+                            "Key": "CarGuru",
+                            "Value": "<span data-cg-vin=\"1FMCU0G93HUA28722\" data-cg-price=\"0\"></span>\r\n"
+                        }
+                    ],
+                    "CustomCommentContent": "<!--01442694-->\n<div class=\"p4c_badge_container\" data-badge-type=\"TEXT_SMALL_DATA_DELETED\" data-company-id=\"6AEj65-y1VQVd\" data-vin=\"1FMCU0G93HUA28722\" data-deletion-status=\"COMPLETED\" data-redirect-to=\"CERTIFICATE\"></div>\n",
+                    "FacebookMessengerContent": "",
+                    "PriceStakViewModel": {
+                        "PricePreHtml": "",
+                        "PriceMainHtml": "",
+                        "PriceStakTabsModel": {
+                            "Vin": "1FMCU0G93HUA28722",
+                            "VehicleType": "Used",
+                            "StakTypeString": "Srp",
+                            "BuyContent": "<pricing-stack>\r\n    <div class=\"vehiclePricingHighlights\">\r\n            <ul class=\"list-unstyled priceBlock priceBlockResponsiveDesktop\">\r\n                <li class=\"priceBlockItem priceBlockItemFeaturedPrice singlePrice \">\r\n  <div class=\"vehiclePricingHighlight featuredPrice\">\r\n    <span class=\"vehiclePricingHighlightAmount \">$9,521</span>\r\n    <span class=\"vehiclePricingHighlightLabel text-cta\">OUR PRICE</span>\r\n  </div>\r\n</li>\r\n<li class=\"priceBlockItem priceBlockItemDivider \"><hr></li>\r\n            </ul>\r\n    </div>\r\n</pricing-stack>\r\n<pricing-stack>\r\n  <div class=\"vehiclePricingDetails\">\r\n        <ul class=\"list-unstyled priceBlock priceBlockResponsiveDesktop\">\r\n          <li class=\"priceBlockItem priceBlockItemDivider \"><hr /></li>\r\n\r\n        </ul>\r\n  </div>\r\n</pricing-stack>\r\n\r\n<pricing-stack>\r\n    <div class=\"vehicleCallsToAction\">\r\n            <ul class=\"list-unstyled priceBlock priceBlockResponsiveDesktop\">\r\n                <li class=\"priceBlockItem priceBlockItemTpi\" style=\"flex-flow:column nowrap;margin-top:10px;\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"popup\" data-dotagging-product-name=\"CarNow ConvertNow\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"1\" data-dotagging-element-type=\"chat_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"comm_engagement, retail_process\">\r\n  <div class=\"cn-button-container btn-block\" data-vin=\"1FMCU0G93HUA28722\" data-page-type=\"srp\" data-type=\"used\"></div>\r\n</li><li id=\"carnow-buynow-1FMCU0G93HUA28722-desktop-bl-cash-2\" class=\"priceBlockItem priceBlockItemTpi\" style=\"flex-flow:column nowrap;margin-top:10px;\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"popup\" data-dotagging-product-name=\"CarNow BuyNow\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"2\" data-dotagging-element-type=\"digital_retailing_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"retail_process\">\r\n  <a data-vin=\"1FMCU0G93HUA28722\" data-msrp=\"0.0\" data-price=\"9521.0\" class=\"cn-buynow-b1\">\r\n  </a>\r\n</li><li id=\"nissan-car-saver-1FMCU0G93HUA28722-desktop-bl-cash-3\" class=\"priceBlockItem priceBlockItemButton \" data-dealerontrack-position=\"3\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"redirect\" data-dotagging-product-name=\"Nissan CarSaver\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"3\" data-dotagging-element-type=\"digital_retailing_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"retail_process\">\r\n  <div>\r\n<cs-buy-widget-v2 dealer-id=\"5242\" provider=\"Nissan\" campaign-id=\"ebd33059-445a-4cde-b74a-35cb068680a6\" vin=\"1FMCU0G93HUA28722\" width=\"100%\" onclick=\"TrackGeneralCTA(this);\">\r\n    Shop@Home\r\n</cs-buy-widget-v2>\r\n  </div>\r\n</li>\r\n            </ul>\r\n    </div>\r\n</pricing-stack>",
+                            "BuyContentAfterLead": "<pricing-stack>\r\n    <div class=\"vehiclePricingHighlights\">\r\n            <ul class=\"list-unstyled priceBlock priceBlockResponsiveDesktop\">\r\n                <li class=\"priceBlockItem priceBlockItemFeaturedPrice singlePrice \">\r\n  <div class=\"vehiclePricingHighlight featuredPrice\">\r\n    <span class=\"vehiclePricingHighlightAmount \">$9,521</span>\r\n    <span class=\"vehiclePricingHighlightLabel text-cta\">OUR PRICE</span>\r\n  </div>\r\n</li>\r\n<li class=\"priceBlockItem priceBlockItemDivider \"><hr></li>\r\n            </ul>\r\n    </div>\r\n</pricing-stack>\r\n<pricing-stack>\r\n  <div class=\"vehiclePricingDetails\">\r\n        <ul class=\"list-unstyled priceBlock priceBlockResponsiveDesktop\">\r\n          <li class=\"priceBlockItem priceBlockItemDivider \"><hr /></li>\r\n\r\n        </ul>\r\n  </div>\r\n</pricing-stack>\r\n\r\n<pricing-stack>\r\n    <div class=\"vehicleCallsToAction\">\r\n            <ul class=\"list-unstyled priceBlock priceBlockResponsiveDesktop\">\r\n                <li class=\"priceBlockItem priceBlockItemTpi\" style=\"flex-flow:column nowrap;margin-top:10px;\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"popup\" data-dotagging-product-name=\"CarNow ConvertNow\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"1\" data-dotagging-element-type=\"chat_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"comm_engagement, retail_process\">\r\n  <div class=\"cn-button-container btn-block\" data-vin=\"1FMCU0G93HUA28722\" data-page-type=\"srp\" data-type=\"used\"></div>\r\n</li><li id=\"carnow-buynow-1FMCU0G93HUA28722-desktop-al-cash-2\" class=\"priceBlockItem priceBlockItemTpi\" style=\"flex-flow:column nowrap;margin-top:10px;\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"popup\" data-dotagging-product-name=\"CarNow BuyNow\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"2\" data-dotagging-element-type=\"digital_retailing_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"retail_process\">\r\n  <a data-vin=\"1FMCU0G93HUA28722\" data-msrp=\"0.0\" data-price=\"9521.0\" class=\"cn-buynow-b1\">\r\n  </a>\r\n</li><li id=\"nissan-car-saver-1FMCU0G93HUA28722-desktop-al-cash-3\" class=\"priceBlockItem priceBlockItemButton \" data-dealerontrack-position=\"3\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"redirect\" data-dotagging-product-name=\"Nissan CarSaver\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"3\" data-dotagging-element-type=\"digital_retailing_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"retail_process\">\r\n  <div>\r\n<cs-buy-widget-v2 dealer-id=\"5242\" provider=\"Nissan\" campaign-id=\"ebd33059-445a-4cde-b74a-35cb068680a6\" vin=\"1FMCU0G93HUA28722\" width=\"100%\" onclick=\"TrackGeneralCTA(this);\">\r\n    Shop@Home\r\n</cs-buy-widget-v2>\r\n  </div>\r\n</li>\r\n            </ul>\r\n    </div>\r\n</pricing-stack>",
+                            "MobileBuyContent": "<pricing-stack>\r\n    <div class=\"vehiclePricingHighlights\">\r\n            <ul class=\"list-unstyled priceBlock priceBlockResponsiveMobile\">\r\n                <li class=\"priceBlockItem priceBlockItemFeaturedPrice singlePrice \">\r\n  <div class=\"vehiclePricingHighlight featuredPrice\">\r\n    <span class=\"vehiclePricingHighlightAmount \">$9,521</span>\r\n    <span class=\"vehiclePricingHighlightLabel text-cta\">OUR PRICE</span>\r\n  </div>\r\n</li>\r\n<li class=\"priceBlockItem priceBlockItemDivider \"><hr></li>\r\n            </ul>\r\n    </div>\r\n</pricing-stack>\r\n<pricing-stack>\r\n  <div class=\"vehiclePricingDetails\">\r\n        <ul class=\"list-unstyled priceBlock priceBlockResponsiveMobile\">\r\n          <li class=\"priceBlockItem priceBlockItemDivider \"><hr /></li>\r\n\r\n        </ul>\r\n  </div>\r\n</pricing-stack>\r\n\r\n<pricing-stack>\r\n    <div class=\"vehicleCallsToAction\">\r\n            <ul class=\"list-unstyled priceBlock priceBlockResponsiveMobile\">\r\n                <li class=\"priceBlockItem priceBlockItemTpi\" style=\"flex-flow:column nowrap;margin-top:10px;\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"popup\" data-dotagging-product-name=\"CarNow ConvertNow\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"1\" data-dotagging-element-type=\"chat_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"comm_engagement, retail_process\">\r\n  <div class=\"cn-button-container btn-block\" data-vin=\"1FMCU0G93HUA28722\" data-page-type=\"srp\" data-type=\"used\"></div>\r\n</li><li id=\"carnow-buynow-1FMCU0G93HUA28722-mobile-bl-cash-2\" class=\"priceBlockItem priceBlockItemTpi\" style=\"flex-flow:column nowrap;margin-top:10px;\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"popup\" data-dotagging-product-name=\"CarNow BuyNow\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"2\" data-dotagging-element-type=\"digital_retailing_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"retail_process\">\r\n  <a data-vin=\"1FMCU0G93HUA28722\" data-msrp=\"0.0\" data-price=\"9521.0\" class=\"cn-buynow-b1\">\r\n  </a>\r\n</li><li class=\"priceBlockItem priceBlockItemButton \r\n    \" data-dealerontrack-position=\"3\" data-dotagging-event=\"click_to_call\" data-dotagging-event-action-result=\"redirect\" data-dotagging-product-name=\"SRP 2.0|PriceStak\" data-dotagging-event-owner=\"dealeron\" data-dotagging-comm-phone-number=\"8884600071\" data-dotagging-department=\"sales\" data-dotagging-affiliation=\"unknown\" data-dotagging-element-position=\"floating\" data-dotagging-element-text=\"Click To Call\" data-dotagging-comm-phone-number=\"8884600071\" data-dotagging-department=\"sales\" data-dotagging-affiliation=\"unknown\" data-dotagging-element-position=\"floating\">\r\n  <a class=\"btn btn-main btn-lg btn-block callNowClass dealerontrack\" style=\"margin-top: 5px\" data-loc=\"2017 Ford Escape SE\" data-mode=\"DefaultEPriceBlock\" data-elementtype=\"LinkButton\" href=\"tel:8884600071\" onclick=\" TrackGeneralCTA(this);  DealerOnTrack.event('Click-to-Call','searchused.aspx','2017 Ford Escape SE-1FMCU0G93HUA28722'); if(jQuery.browser.mobile){trackerHook({trackId: 91, actionType: 'click'}); ResetTracker(); trackerHook({trackId: 35, actionType: 'click'});}\" data-dealerontrack-type=\"pricingStack\" data-dealerontrack-subtype=\"button\" data-dealerontrack-category=\"VDP/SRP Buttons\" data-dealerontrack-label=\"Click To Call\" data-dealerontrack-position=\"3\" data-dealerontrack-value=\"SRP\">\r\n    Click To Call\r\n  </a>\r\n</li><li id=\"nissan-car-saver-1FMCU0G93HUA28722-mobile-bl-cash-4\" class=\"priceBlockItem priceBlockItemButton \" data-dealerontrack-position=\"4\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"redirect\" data-dotagging-product-name=\"Nissan CarSaver\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"4\" data-dotagging-element-type=\"digital_retailing_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"retail_process\">\r\n  <div>\r\n<cs-buy-widget-v2 dealer-id=\"5242\" provider=\"Nissan\" campaign-id=\"ebd33059-445a-4cde-b74a-35cb068680a6\" vin=\"1FMCU0G93HUA28722\" width=\"100%\" onclick=\"TrackGeneralCTA(this);\">\r\n    Shop@Home\r\n</cs-buy-widget-v2>\r\n  </div>\r\n</li>\r\n            </ul>\r\n    </div>\r\n</pricing-stack>",
+                            "MobileBuyContentAfterLead": "<pricing-stack>\r\n    <div class=\"vehiclePricingHighlights\">\r\n            <ul class=\"list-unstyled priceBlock priceBlockResponsiveMobile\">\r\n                <li class=\"priceBlockItem priceBlockItemFeaturedPrice singlePrice \">\r\n  <div class=\"vehiclePricingHighlight featuredPrice\">\r\n    <span class=\"vehiclePricingHighlightAmount \">$9,521</span>\r\n    <span class=\"vehiclePricingHighlightLabel text-cta\">OUR PRICE</span>\r\n  </div>\r\n</li>\r\n<li class=\"priceBlockItem priceBlockItemDivider \"><hr></li>\r\n            </ul>\r\n    </div>\r\n</pricing-stack>\r\n<pricing-stack>\r\n  <div class=\"vehiclePricingDetails\">\r\n        <ul class=\"list-unstyled priceBlock priceBlockResponsiveMobile\">\r\n          <li class=\"priceBlockItem priceBlockItemDivider \"><hr /></li>\r\n\r\n        </ul>\r\n  </div>\r\n</pricing-stack>\r\n\r\n<pricing-stack>\r\n    <div class=\"vehicleCallsToAction\">\r\n            <ul class=\"list-unstyled priceBlock priceBlockResponsiveMobile\">\r\n                <li class=\"priceBlockItem priceBlockItemTpi\" style=\"flex-flow:column nowrap;margin-top:10px;\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"popup\" data-dotagging-product-name=\"CarNow ConvertNow\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"1\" data-dotagging-element-type=\"chat_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"comm_engagement, retail_process\">\r\n  <div class=\"cn-button-container btn-block\" data-vin=\"1FMCU0G93HUA28722\" data-page-type=\"srp\" data-type=\"used\"></div>\r\n</li><li id=\"carnow-buynow-1FMCU0G93HUA28722-mobile-al-cash-2\" class=\"priceBlockItem priceBlockItemTpi\" style=\"flex-flow:column nowrap;margin-top:10px;\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"popup\" data-dotagging-product-name=\"CarNow BuyNow\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"2\" data-dotagging-element-type=\"digital_retailing_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"retail_process\">\r\n  <a data-vin=\"1FMCU0G93HUA28722\" data-msrp=\"0.0\" data-price=\"9521.0\" class=\"cn-buynow-b1\">\r\n  </a>\r\n</li><li class=\"priceBlockItem priceBlockItemButton \r\n    \" data-dealerontrack-position=\"3\" data-dotagging-event=\"click_to_call\" data-dotagging-event-action-result=\"redirect\" data-dotagging-product-name=\"SRP 2.0|PriceStak\" data-dotagging-event-owner=\"dealeron\" data-dotagging-comm-phone-number=\"8884600071\" data-dotagging-department=\"sales\" data-dotagging-affiliation=\"unknown\" data-dotagging-element-position=\"floating\" data-dotagging-element-text=\"Click To Call\" data-dotagging-comm-phone-number=\"8884600071\" data-dotagging-department=\"sales\" data-dotagging-affiliation=\"unknown\" data-dotagging-element-position=\"floating\">\r\n  <a class=\"btn btn-main btn-lg btn-block callNowClass dealerontrack\" style=\"margin-top: 5px\" data-loc=\"2017 Ford Escape SE\" data-mode=\"DefaultEPriceBlock\" data-elementtype=\"LinkButton\" href=\"tel:8884600071\" onclick=\" TrackGeneralCTA(this);  DealerOnTrack.event('Click-to-Call','searchused.aspx','2017 Ford Escape SE-1FMCU0G93HUA28722'); if(jQuery.browser.mobile){trackerHook({trackId: 91, actionType: 'click'}); ResetTracker(); trackerHook({trackId: 35, actionType: 'click'});}\" data-dealerontrack-type=\"pricingStack\" data-dealerontrack-subtype=\"button\" data-dealerontrack-category=\"VDP/SRP Buttons\" data-dealerontrack-label=\"Click To Call\" data-dealerontrack-position=\"3\" data-dealerontrack-value=\"SRP\">\r\n    Click To Call\r\n  </a>\r\n</li><li id=\"nissan-car-saver-1FMCU0G93HUA28722-mobile-al-cash-4\" class=\"priceBlockItem priceBlockItemButton \" data-dealerontrack-position=\"4\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"redirect\" data-dotagging-product-name=\"Nissan CarSaver\" data-dotagging-event-owner=\"dealeron\" data-dotagging-element-order=\"4\" data-dotagging-element-type=\"digital_retailing_tool\" data-dotagging-element-subtype=\"cta_button\" data-dotagging-context=\"retail_process\">\r\n  <div>\r\n<cs-buy-widget-v2 dealer-id=\"5242\" provider=\"Nissan\" campaign-id=\"ebd33059-445a-4cde-b74a-35cb068680a6\" vin=\"1FMCU0G93HUA28722\" width=\"100%\" onclick=\"TrackGeneralCTA(this);\">\r\n    Shop@Home\r\n</cs-buy-widget-v2>\r\n  </div>\r\n</li>\r\n            </ul>\r\n    </div>\r\n</pricing-stack>",
+                            "FinanceContent": null,
+                            "MobileFinanceContent": null,
+                            "LeaseContent": null,
+                            "MobileLeaseContent": null,
+                            "BuyRef": "buy-1FMCU0G93HUA28722",
+                            "FinanceRef": "finance-1FMCU0G93HUA28722",
+                            "LeaseRef": "lease-1FMCU0G93HUA28722"
+                        },
+                        "PricePostHtml": "",
+                        "MobileHtml": "",
+                        "IsSimilarVehicle": false,
+                        "TpiBelowHtml": ""
+                    },
+                    "ShowReservedDisclaimer": false,
+                    "ShowCustomCommentContent": false
+                },
+                "RvInfoViewModel": {
+                    "FloorplanImage": "",
+                    "FloorplanLink": "https://www.premiernissanoffremont.com/used-+-2017-Ford-Escape-SE-1FMCU0G93HUA28722#vehicle-floorplan",
+                    "Brand": "",
+                    "Manufacturer": "",
+                    "ModelName": "",
+                    "ShowFloorplan": false,
+                    "ShowRvDetails": true,
+                    "ShowRvFeatures": true,
+                    "ShowSleeps": false,
+                    "ShowWeight": false,
+                    "Sleeps": 0,
+                    "Weight": ""
+                },
+                "TaggingItemType": "Sport Utility",
+                "ShouldDisplayPriceDropIcon": false,
+                "ShowSpecialIcon": false,
+                "ShowSpecialTags": false,
+                "ExternalColorAccessibilityAttributes": "role='img' aria-label='Ingot Silver'",
+                "ExteriorColorCode": "#C0C0C0",
+                "ExteriorColorIconTitleAttribute": "Ingot Silver",
+                "ExteriorColorLabel": "Ingot Silver",
+                "InteriorColorAccessibilityAttributes": "role='img' aria-label='Black'",
+                "InteriorColorIconTitleAttribute": "Black",
+                "InteriorColorCode": "#000000",
+                "InteriorColorLabel": "Black",
+                "ShowColors": true,
+                "ShowExteriorColorLabel": false,
+                "ShowExteriorColorSwatch": true,
+                "ShowInteriorColorLabel": false,
+                "ShowInteriorColorSwatch": true,
+                "DealerId": 25116,
+                "DealerLocatedAtCity": "Fremont",
+                "DealerLocatedAtId": 25116,
+                "VehicleLocationName": "",
+                "DealerLocatedAtState": "CA",
+                "DealerName": "Nissan of Fremont",
+                "ShowDealerLocatedAt": true,
+                "VehicleBodyStyle": "Sport Utility",
+                "VehicleCarHistoryReport": "<a class=\"reportImg icon-img__benefit stat-image-link\" href=\"https://www.carfax.com/vehiclehistory/ar20/RKxbLXxKpflIphmYuaHRKnxMc6NZY2LINkulzgBnDUv6t3YUjpeKGdhBj_vqR46QzuKoBRJ76d2pUDl8zny8upoSb5X7El45WnM\" rel=\"noopener\" data-loc=\"carfax\" target=\"_blank\" data-dotagging-event=\"cta_interaction\" data-dotagging-event-action-result=\"open\"  data-dotagging-element-type=\"item_details\" data-dotagging-element-subtype=\"hyperlink\" data-dotagging-event-action=\"click\" data-dotagging-element-order=\"0\"> <img class=\"feature-image__benefit\" src=\"https://partnerstatic.carfax.com/img/valuebadge/showme.svg\" alt=\"View CARFAX report\" style=\"width:80px;\" title=\"View CARFAX report\" loading=\"lazy\"></a>\r\n\r\n\r\n\r\n",
+                "VehicleComments": "Clean CARFAX.<br><br><br>Equipment Group 200A, 3.21 Axle Ratio, 4-Wheel Disc Brakes, 6 Speakers, ABS brakes, Air Conditioning, Alloy wheels, AM/FM radio: SiriusXM, Automatic temperature control, Brake assist, Bumpers: body-color, CD player, Compass, Delay-off headlights, Driver door bin, Driver vanity mirror, Dual front impact airbags, Dual front side impact airbags, Electronic Stability Control, Emergency communication system: 911 Assist, Exterior Parking Camera Rear, Four wheel independent suspension, Front anti-roll bar, Front Bucket Seats, Front Center Armrest, Front dual zone A/C, Front fog lights, Front License Plate Bracket, Front reading lights, Fully automatic headlights, Illuminated entry, Knee airbag, Low tire pressure warning, Occupant sensing airbag, Outside temperature display, Overhead airbag, Overhead console, Panic alarm, Panoramic Vista Roof, Passenger door bin, Passenger vanity mirror, Power door mirrors, Power driver seat, Power steering, Power windows, Radio data system, Radio: AM/FM Single CD/MP3, Rear anti-roll bar, Rear seat center armrest, Rear window defroster, Rear window wiper, Remote keyless entry, Speed control, Speed-sensing steering, Split folding rear seat, Steering wheel mounted audio controls, SYNC Communications & Entertainment System, Tachometer, Telescoping steering wheel, Tilt steering wheel, Traction control, Trip computer, Unique Cloth Buckets w/60/40 Split Rear Seat, Variably intermittent wipers, and Wheels: 17 Sparkle Silver Painted Aluminum.<br><br>Awards:<br>  * 2017 KBB.com 10 Best SUVs Under $25,000   * 2017 KBB.com 10 Best Used Compact SUVs Under $15,000   * 2017 KBB.com Brand Image Awards   * 2017 KBB.com 10 Most Awarded Brands<br><br>Reviews:<br>  * Optional 2.0-liter turbocharged engine provides quick acceleration; high-tech features include Sync 3 infotainment, Apple CarPlay and Android Auto; responsive steering and carlike handling around turns. Source: Edmunds<br>2017 Ford Escape SE",
+                "VehicleCpo": false,
+                "VehicleCpoReport": null,
+                "VehicleEngine": "4 Cyl - 2 L",
+                "VehicleExteriorColorCode": "",
+                "VehicleFuelType": "Gasoline",
+                "VehicleId": 0,
+                "VehicleInProduction": false,
+                "VehicleInStock": true,
+                "VehicleInteriorColorCode": "",
+                "VehicleInternetPrice": 0.0,
+                "VehicleInTransit": false,
+                "VehicleMake": "Ford",
+                "VehicleModel": "Escape",
+                "VehicleModelCode": "U0G",
+                "VehicleMpgCity": 22,
+                "VehicleMpgHwy": 29,
+                "VehicleMsrp": 0.0,
+                "VehicleName": "2017 Ford Escape SE",
+                "VehicleNameHtmlEncoded": "2017 Ford Escape SE",
+                "VehicleOemSpecial": false,
+                "VehiclePhotoCount": 24,
+                "VehiclePriceLibrary": "U2VsbGluZyBQcmljZTo5NTIxLjA7cmVmZl9GbGF0IExvdyBQcmljZTo5NTIxLjA7Y2FsY19JTlRFUk5FVCBQUklDRTo5NTIxLjA=",
+                "VehicleRuleAdjustedTrim": "SE",
+                "VehicleRuleAdjustedYear": "2017",
+                "VehicleStockNumber": "P11620A",
+                "VehicleTaggingInventoryDate": "2026/01/28",
+                "VehicleTitleAppendText": "",
+                "VehicleTransmission": "6-Speed Automatic",
+                "VehicleTrim": "SE",
+                "VehicleType": "used",
+                "VehicleVin": "1FMCU0G93HUA28722",
+                "VehicleYear": 2017,
+                "VehicleCarHistoryReportMxSrp": "\r\n",
+                "VehicleCarHistoryReportMxVdp": "\r\n",
+                "IsSignalsForYou": false,
+                "VehicleLocation": "Nissan of Fremont",
+                "VehicleGenericColor": "Silver"
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "TpiScripts": [
+        "\r\n  <script type=\"text/javascript\" src=\"https://widgets.carsaver.com/dealer-cta-plugin/cs-buy-widget-v2.min.js\"></script>\r\n"
+    ],
+    "TdgSaveHeartVehicles": null,
+    "SuggestionRedirectModel": {
+        "HasRedirect": false,
+        "HasSuggestion": false,
+        "ShowingResultsForText": null,
+        "SearchInsteadUrl": "/searchused.aspx?q=",
+        "SearchInsteadText": null,
+        "ShowingResultsForUrl": "/searchused.aspx?q="
+    }
+}
