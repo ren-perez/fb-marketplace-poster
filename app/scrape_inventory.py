@@ -8,6 +8,10 @@ import csv
 import time
 import re
 
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+
 BASE = "https://www.premiernissanoffremont.com"
 URL = "https://www.premiernissanoffremont.com/searchused.aspx"
 
@@ -405,8 +409,11 @@ def scrape_all():
     return all_vehicles
 
 
-def save_csv(vehicles, filename="inventory.csv"):
+def save_csv(vehicles, filename=None):
     """Save vehicles to CSV file"""
+    if filename is None:
+        filename = ROOT / "data/bronze/inventory.csv"
+        filename.parent.mkdir(parents=True, exist_ok=True)
     if not vehicles:
         print("No vehicles to save!")
         return
